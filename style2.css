@@ -2,8 +2,9 @@ h1{
     text-align: center;
     border: solid;
     width: 50%;
-    text-decoration: red underline;
+    text-decoration: blue underline;
     letter-spacing: 15px;
+    font-family: popins;
 }
 
 p{
