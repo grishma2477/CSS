@@ -2,8 +2,20 @@ h1{
     text-align: center;
     border: solid;
     width: 50%;
+    text-decoration: red underline;
 }
 
 p{
-    text-align: end;
+    text-align: start;
+    font-weight: 400;
+    text-decoration: overline;
+}
+
+h2{
+    font-weight: normal;
+    text-decoration: wavy line-through;
+}
+
+a{
+    text-decoration: none;
 }
