@@ -1,4 +1,7 @@
 *{
     font-family: 'Courier New', Courier, monospace;
-    background-color: greenyellow;
+}
+
+h1, h3{
+    color:blueviolet;
 }
