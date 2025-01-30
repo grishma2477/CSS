@@ -19,3 +19,15 @@ h1, h3{
     color: green; 
     color: red;
 }
+
+/*descendant selector*/
+
+
+p a{
+    color: purple;
+    background-color: yellow;
+}
+
+nav ul li a{
+    color: red;
+}
