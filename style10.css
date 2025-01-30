@@ -5,3 +5,13 @@
 h1, h3{
     color:blueviolet;
 }
+
+#login{
+    background-color: white;
+}
+
+#signup{
+    background-color: #b92b27;
+    color: white;
+}
+
