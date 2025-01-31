@@ -9,11 +9,14 @@ div{
     border-left-color: black;
     border-left-style: dashed;
     border-top: 5px dashed yellow;
+    border-radius: 5px;
+    border-top-right-radius: 10px;
 }
 
 h1{
     border-width: 2px;
     border-style: dashed;
     border-color: green;
+    border-radius: 100%;
 }
 
