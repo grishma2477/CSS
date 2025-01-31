@@ -101,3 +101,11 @@ p::first-line{
 p::selection{
     background-color: yellowgreen;
 }
+
+h3{
+    background-color: lightgoldenrodyellow;
+}
+
+h3{
+    background-color: aqua;
+}
