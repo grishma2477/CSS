@@ -1,12 +1,19 @@
-div{
-    height: 200px;
-    width: 200px;
-    background-color: greenyellow;
+
+h1{
     border: 2px solid black;
-    margin: 5px;
-    display: inline-block;
+    width: 33.33%;
 }
 
-#third{
-    display: none;
+#outer{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    margin: 50px;
+}
+
+#inner{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    margin-left: 10%;
 }
