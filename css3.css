@@ -37,3 +37,11 @@ transform: rotate(45deg);
 #third{
     transform: translate(100px);
 }
+
+#fourth{
+    transform: skew(45deg);
+}
+
+#fifth{
+    transform: rotate(30deg) translateX(150px);
+}
