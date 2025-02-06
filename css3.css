@@ -27,6 +27,13 @@ div{
 #one{
 transform: rotate(45deg);
 }
+
+
 #two{
     transform:scale(0.5)
+}
+
+
+#third{
+    transform: translate(100px);
 }
