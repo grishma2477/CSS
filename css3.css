@@ -13,9 +13,20 @@ div:hover{
     /*background-color: black;
     border-radius: 50%; 
     margin-top: 400px;
-    /* background-color: pink; */
+    /* background-color: pink; 
+}*/
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    margin:10px
 }
 
 #one{
 transform: rotate(45deg);
+}
+#two{
+    transform:scale(0.5)
 }
