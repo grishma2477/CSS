@@ -1,8 +1,11 @@
 
 div{
-        height: 100px;
-        width: 100px;
+        height: 400px;
+        width: 400px;
         background-color: green;
         margin:10px auto;
         box-shadow: 2px 2px 8px black;
+        background-image: url(byimage.jpg);
+        background-size: cover;
+        color: white;
 }
